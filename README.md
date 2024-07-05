@@ -1,4 +1,4 @@
-# CyberListen Terminal v1.0
+# CyberListen Terminal v1.0 (For Kali Linux)
 
 CyberListen Terminal is a web interface that allows you to run network commands and queries on a Kali terminal. The interface is designed to be user-friendly and professional, offering predefined commands, advanced queries, and custom command line inputs.
 
